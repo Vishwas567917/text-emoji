@@ -3,6 +3,8 @@
 This project is a web application that allows users to encrypt and decrypt messages using emojis. Users can type a message, set a password, and convert the message into emojis. Similarly, they can decrypt an emoji message back into text using the same password.
 
 ![Screenshot (328)](https://github.com/Vishwas567917/text-emoji/assets/139749696/269e9029-8fdc-45a1-971b-43b3a2ff9da6)
+
+
 ![Screenshot (327)](https://github.com/Vishwas567917/text-emoji/assets/139749696/53d2ccbd-f7e6-4204-b2b5-b18921659eac)
 
 
